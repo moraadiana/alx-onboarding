@@ -1,0 +1,6 @@
+read num
+write sum=sum+num
+
+until num is negative
+   if num is negative
+      write sum
